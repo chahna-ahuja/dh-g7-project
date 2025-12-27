@@ -1,19 +1,19 @@
 Add column wise grel_scripts as a markdown file so grel_scripts will contain:
-alephsystem_column (markdown will say mostly unchanged, remove duplicates process)
-dom_id (markdown will say mostly unchanged, remove duplicates process)
-author_column, (author workflow- written by chahna and liangyu, see report for detailed steps
+- alephsystem_column (markdown will say mostly unchanged, remove duplicates process)
+- dom_id (markdown will say mostly unchanged, remove duplicates process)
+- author_column, (author workflow- written by chahna and liangyu, see report for detailed steps
   - write this has two versions to keep authenticiy of our workflow 
   - version 1: chahna's version
-  - version 2: liangyu's version 
-authorwikidata_column (wikidata reconcilation workflow- written by liangyu, see report for detailed steps)
-title_column (title workflow- written by chahna, again this has two version) 
+  - version 2: liangyu's version
+- authorwikidata_column (wikidata reconcilation workflow- written by liangyu, see report for detailed steps)
+- title_column (title workflow- written by chahna, again this has two version) 
   - version 1: chahna's exact workflow
   - version 2: liangyu's version from comments in notion's title workflow section
-edition_column (edition workflow just format puncutations) 
-series_column (series workflow just format puncutations)
-subject_column  (subject workflow just format puncutations)
-imprint_column, (imprint workflow = written by chahna)
-otherauthors_column (otherauthors workflow- written by chahna)
+- edition_column (edition workflow just format puncutations) 
+- series_column (series workflow just format puncutations)
+- subject_column  (subject workflow just format puncutations)
+- imprint_column, (imprint workflow = written by chahna)
+- otherauthors_column (otherauthors workflow- written by chahna)
 
 each of these markdown files should have grel code and process of cleaning in detail (copy+paste process from notion + use code block in markdown for code) 
 
