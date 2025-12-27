@@ -1,3 +1,7 @@
+### Cleaning Protocol Framework
+
+We collaboratively agreed upon some cleaning protocols to structure, modify and standardize our data. Below table provides the summary of our protocol framework:
+
 | Category               | Protocol Rule                                                                                                  | Rationale                                                                                     |
 |------------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | Null Handling           | - Keep empty cells; do not delete rows                                                                       | Preserves data integrity and avoids loss of useful information                                 |
