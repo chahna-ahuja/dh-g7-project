@@ -1,1 +1,2 @@
-
+-Lowercase the column name
+-Column content mostly unchanged
