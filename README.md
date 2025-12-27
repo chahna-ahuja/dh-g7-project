@@ -1,4 +1,4 @@
-# [Project Title]
+# Stage by Stage: Data Wrangling in *OpenRefine* Using British Library's Bibliographic "Drama" Collections
 
 ## Abstract
 [Insert a short abstract summarising the project, the dataset, and the DH context.]
