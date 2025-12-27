@@ -22,6 +22,7 @@ how to add codeblock for GREL
 ```javascript
 // GREL example: lowecase columns
 value.toLowercase().trim()
+```
 
 For, json folder- please add json history from OpenRefine
 
