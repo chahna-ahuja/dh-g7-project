@@ -17,14 +17,20 @@ otherauthors_column (otherauthors workflow- written by chahna)
 
 each of these markdown files should have grel code and process of cleaning in detail (copy+paste process from notion + use code block in markdown for code) 
 
+how to add codeblock for GREL 
+
+```javascript
+// GREL example: lowecase columns
+value.toLowercase().trim()
+
+For, json folder- please add json history from OpenRefine
+
 *Delete the section above divider after you're done adding these scripts, Xinran! (including the divider)*
 |-----|-------------------------|-----------|------------------------------------------|------------------------------------------------------------------------------------------------|
 
 ### Workflow Process and Scripts
-- This folder contains each column's detailed workflow process, GREL scripts and its versions, written by the team members: Chahna Ahuja, Liangyu Gan, Xinran Liu. 
+- The **grel_scripts** folder contains each column's detailed workflow process, GREL scripts and its versions, written by the team members: Chahna Ahuja, Liangyu Gan, Xinran Liu. 
 - The table below summarizes the data cleaning and transformation process as operated on each column. 
-
-
 
 | No. | Name                    | Status    | Comments                                  | Instance                                                                                       |
 |-----|-------------------------|-----------|------------------------------------------|------------------------------------------------------------------------------------------------|
@@ -47,4 +53,9 @@ each of these markdown files should have grel code and process of cleaning in de
 | 17  | p location              | New       | Publishing location extracted from imprint| *london*                                                                                       |
 | 18  | p name                  | New       | Publisher name extracted from imprint     | **NULL**                                                                                        |
 | 19  | type                    | Unchanged | `Comedy', `Tragedy' and `Play' as types   | *comedy*                                                                                       |
+### Json History
 
+The **json_history** contains json history for each subdataset, cleaned by different members:
+- Comedy: Chahna Ahuja
+- Tragedy: Xinran Liu
+- Play: Liangyu Gan
