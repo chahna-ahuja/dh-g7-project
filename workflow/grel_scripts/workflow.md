@@ -17,8 +17,13 @@ otherauthors_column (otherauthors workflow- written by chahna)
 
 each of these markdown files should have grel code and process of cleaning in detail (copy+paste process from notion + use code block in markdown for code) 
 
-*Delete the section above header*
+*Delete the section above divider (including the divider)*
 |-----|-------------------------|-----------|------------------------------------------|------------------------------------------------------------------------------------------------|
+
+### Workflow Process and Scripts
+- This folder contains each column's detailed workflow process, GREL scripts and its versions, written by the team members: Chahna Ahuja, Liangyu Gan, Xinran Liu. 
+- The table below is duplicated from the report to summarize the data cleaning and transformation process as operated on each column. 
+
 
 
 | No. | Name                    | Status    | Comments                                  | Instance                                                                                       |
