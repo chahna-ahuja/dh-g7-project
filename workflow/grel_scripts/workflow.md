@@ -17,7 +17,7 @@ otherauthors_column (otherauthors workflow- written by chahna)
 
 each of these markdown files should have grel code and process of cleaning in detail (copy+paste process from notion + use code block in markdown for code) 
 
-*Delete the section above divider (including the divider)*
+*Delete the section above divider after you're done adding these scripts, Xinran! (including the divider)*
 |-----|-------------------------|-----------|------------------------------------------|------------------------------------------------------------------------------------------------|
 
 ### Workflow Process and Scripts
