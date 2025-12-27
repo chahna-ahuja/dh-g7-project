@@ -22,7 +22,7 @@ each of these markdown files should have grel code and process of cleaning in de
 
 ### Workflow Process and Scripts
 - This folder contains each column's detailed workflow process, GREL scripts and its versions, written by the team members: Chahna Ahuja, Liangyu Gan, Xinran Liu. 
-- The table below is duplicated from the report to summarize the data cleaning and transformation process as operated on each column. 
+- The table below summarizes the data cleaning and transformation process as operated on each column. 
 
 
 
