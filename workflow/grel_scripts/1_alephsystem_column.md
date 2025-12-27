@@ -1,2 +1,2 @@
 -Lowercase the column name
--Column content most unchanged
+-Column content mostly unchanged
