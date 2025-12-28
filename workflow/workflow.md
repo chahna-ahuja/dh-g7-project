@@ -5,7 +5,7 @@
 | No. | Name                    | Status    | Comments                                  | Instance                                                                                       |
 |-----|-------------------------|-----------|------------------------------------------|------------------------------------------------------------------------------------------------|
 | 1   | aleph system no.        | Unchanged | Unique identifier                         | *014810954*                                                                                   |
-| 2   | DOM id                  | Unchanged | Unique identifier                         | *lsidyv31b63e2f*                                                                               |
+| 2   | dom id                  | Unchanged | Unique identifier                         | *lsidyv31b63e2f*                                                                               |
 | 3   | author (o)              | Unchanged | Original personal author column           | *foote, samuel. 1720-1777*                                                                    |
 | 4   | author (n)              | Modified  | Cleaned version of author (o)             | *foote, samuel*                                                                                |
 | 5   | author_wikidata_url     | New       | Wikidata URL from author (n)              | *https://www.wikidata.org/wiki/Q766758*                                                       |
